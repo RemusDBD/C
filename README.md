@@ -7,5 +7,5 @@ You may find it useful to follow with the instuctor and my scripts.
 
 ✓ Environemnt tested on Visual Studio 17.7.3
 
-> [Pointers](https://github.com/RemusDBD/C/blob/main/Pointers/Readme.md)
+> [Pointers](https://github.com/RemusDBD/C/blob/main/Pointers/Readme.md) <br>
 > [Type-Cast Conversions]()
