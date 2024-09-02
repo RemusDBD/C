@@ -1,3 +1,4 @@
+<img src="/img/background.jpg" width="600" height="300"></img>
 # C
 Self-made source code for tutorial videos/articles about C
 
