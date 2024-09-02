@@ -1,1 +1,1 @@
-Collection of pointers from freeCodeCamp
+Collection of pointers tutorial from freeCodeCamp
